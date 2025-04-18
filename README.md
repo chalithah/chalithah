@@ -60,4 +60,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - T-Pot-Honeypot-Cloud-Deployment
-- Securing REDCap with AWS WAF:OWASP Top 10 
+- Securing REDCap with AWS WAF:OWASP Top 10
+- Active Directory Home Lab
