@@ -8,8 +8,6 @@
 
 I am a certified IT systems professional with a strong passion for cybersecurity and cloud technologies. My experience spans across cloud security, IAM, endpoint protection, and regulatory compliance.
 
-Objective
-
 ## Objective
 My goal is to leverage my expertise in cybersecurity and cloud technologies to advance in roles related to Security Operations, Threat Detection, and Cloud Security Architecture.
 
