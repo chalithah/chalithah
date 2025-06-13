@@ -2,7 +2,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi. I'm Vin.</h1></summary>
+    <summary><h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi. I'm Chalitha.</h1></summary>
   </ul>
 </div>
 <div align="center">
@@ -25,11 +25,11 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Currently learning digital art...</h2></summary>
+    <summary><h2 style="display: inline-block">Currently learning Cybersecurity...</h2></summary>
   </ul>
 </div>
 
-# Hello, I'm CHALITHA  
+#  
 <a href="https://www.linkedin.com/in/chalithahandapangoda/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
