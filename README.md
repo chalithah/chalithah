@@ -6,14 +6,6 @@
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-#  
-<a href="https://www.linkedin.com/in/chalithahandapangoda/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://chalithah.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
 I am a certified IT systems professional with a strong passion for cybersecurity and cloud technologies. My experience spans across cloud security, IAM, endpoint protection, and regulatory compliance.
 
 ## Objective
