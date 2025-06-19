@@ -1,38 +1,51 @@
-<!-- Intro Section -->
-<div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
-    Hi. I'm Chalitha.
-  </h1>
+<!-- Rocket/Cybersecurity Themed Animated Header -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1 align="center">
+        <img src="https://media.giphy.com/media/jVStGQGz2b0hHn6SY4/giphy.gif" width="40" />
+        Hi. I'm Chalitha.
+      </h1>
+    </summary>
+  </ul>
 </div>
 
-<!-- Custom Cybersecurity Orbit Animation -->
+<!-- Cyber-Themed Animation (Typing effect) -->
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=🔐+Cybersecurity+Enthusiast!;🚀+Building+Cloud+and+Security+Labs"
+    alt="Typing SVG"
+  />
+</div>
+
+<!-- GitHub Stats Section -->
 <div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/chalitha/satellite-orbit-grid/output/cyber-orbit-dark.svg"
+      srcset="https://github-readme-stats.vercel.app/api?username=chalithahandapangoda&show_icons=true&theme=radical"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/chalitha/satellite-orbit-grid/output/cyber-orbit.svg"
+      srcset="https://github-readme-stats.vercel.app/api?username=chalithahandapangoda&show_icons=true&theme=default"
     />
     <img
-      alt="cybersecurity orbit animation around the world"
-      src="https://raw.githubusercontent.com/chalitha/satellite-orbit-grid/output/cyber-orbit.svg"
-      width="100%"
+      alt="Chalitha's GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=chalithahandapangoda&show_icons=true&theme=default"
     />
   </picture>
-  <br>
-  <em>Protecting the world, one orbit at a time. 🔐🚀🛰</em>
 </div>
 
-<!-- Learning -->
-<div align="center">
-  <h2>Currently learning Cybersecurity...</h2>
+<!-- Learning Status -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">Currently learning Cybersecurity & Cloud Engineering...</h2>
+    </summary>
+  </ul>
 </div>
 
-<!-- Social Links -->
+<!-- Social Media Badges -->
 <div align="center">
   <a href="https://www.linkedin.com/in/chalithahandapangoda/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
