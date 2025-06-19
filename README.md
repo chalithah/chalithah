@@ -6,18 +6,18 @@
   </h1>
 </div>
 
-<!-- Creative Visual Replacement -->
+<!-- Custom SVG Cybersecurity Orbit Animation -->
 <div align="center">
   <img 
-    src="https://media.giphy.com/media/Y4pAQv58ETJgRwoLxj/giphy.gif" 
-    alt="Cyber Guardian Radar Scanning Animation" 
-    width="400"
+    src="https://raw.githubusercontent.com/chalitha/satellite-grid/main/cyber-orbit.svg" 
+    alt="Cybersecurity-themed orbit animation around GitHub contribution grid" 
+    width="100%"
   />
   <br>
-  <em>Monitoring threats... Staying sharp 🛰️</em>
+  <em>Cybersecurity in motion: Locks, satellites, and rockets guarding my code 👨‍💻🛰️🚀</em>
 </div>
 
-<!-- Current Focus -->
+<!-- Current Learning Focus -->
 <div align="center">
   <h2>Currently learning Cybersecurity...</h2>
 </div>
