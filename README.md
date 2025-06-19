@@ -1,34 +1,27 @@
-<!-- Profile Header -->
+<!-- Animated Intro Heading -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/jVStGQGz2b0hHn6SY4/giphy.gif" width="40" />
-  Hi. I'm Chalitha.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+CHALITHA+%F0%9F%91%8B;Certified+IT+Systems+Engineer+%7C+Cybersecurity+Focused;Cloud+Security+%7C+IAM+%7C+Compliance+Specialist" alt="Typing SVG" />
 </h1>
 
-<!-- Typing SVG Animation -->
+<!-- Centered Bio Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=🔐+Cybersecurity+Enthusiast!;🚀+Building+Cloud+and+Security+Labs" alt="Typing SVG" />
+  🚀 I'm a certified IT systems professional with a strong passion for <b>cybersecurity</b> and <b>cloud technologies</b>. <br/>
+  🛡️ I specialize in <i>cloud security, identity & access management (IAM), endpoint protection,</i> and ensuring <i>regulatory compliance</i> across cloud infrastructure. <br/>
+  🔍 Continuously learning, building, and securing systems — one cloud at a time. ☁️🔐
 </p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chalithah&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<!-- Subheading -->
-<h2 align="center">Currently learning Cybersecurity & Cloud Engineering...</h2>
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/chalithahandapangoda/">
+  <a href="https://www.linkedin.com/in/chalithahandapangoda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://chalithah.medium.com/">
+  <a href="https://chalithah.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  <a href="mailto:hanchalitha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
-
-I am a certified IT systems professional with a strong passion for cybersecurity and cloud technologies. My experience spans across cloud security, IAM, endpoint protection, and regulatory compliance.
 
 ## Objective
 My goal is to leverage my expertise in cybersecurity and cloud technologies to advance in roles related to Security Operations, Threat Detection, and Cloud Security Architecture.
