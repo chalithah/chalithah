@@ -1,59 +1,31 @@
-<!-- Rocket/Cybersecurity Themed Animated Header -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 align="center">
-        <img src="https://media.giphy.com/media/jVStGQGz2b0hHn6SY4/giphy.gif" width="40" />
-        Hi. I'm Chalitha.
-      </h1>
-    </summary>
-  </ul>
-</div>
+<!-- Profile Header -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/jVStGQGz2b0hHn6SY4/giphy.gif" width="40" />
+  Hi. I'm Chalitha.
+</h1>
 
-<!-- Cyber-Themed Animation (Typing effect) -->
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=🔐+Cybersecurity+Enthusiast!;🚀+Building+Cloud+and+Security+Labs"
-    alt="Typing SVG"
-  />
-</div>
+<!-- Typing SVG Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=🔐+Cybersecurity+Enthusiast!;🚀+Building+Cloud+and+Security+Labs" alt="Typing SVG" />
+</p>
 
-<!-- GitHub Stats Section -->
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=chalithahandapangoda&show_icons=true&theme=radical"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=chalithahandapangoda&show_icons=true&theme=default"
-    />
-    <img
-      alt="Chalitha's GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=chalithahandapangoda&show_icons=true&theme=default"
-    />
-  </picture>
-</div>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chalithah&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<!-- Learning Status -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Currently learning Cybersecurity & Cloud Engineering...</h2>
-    </summary>
-  </ul>
-</div>
+<!-- Subheading -->
+<h2 align="center">Currently learning Cybersecurity & Cloud Engineering...</h2>
 
-<!-- Social Media Badges -->
-<div align="center">
+<!-- Social Badges -->
+<p align="center">
   <a href="https://www.linkedin.com/in/chalithahandapangoda/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://chalithah.medium.com/">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-</div>
+</p>
 
 
 I am a certified IT systems professional with a strong passion for cybersecurity and cloud technologies. My experience spans across cloud security, IAM, endpoint protection, and regulatory compliance.
