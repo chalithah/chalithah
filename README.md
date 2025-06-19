@@ -1,10 +1,37 @@
-# Hello, I'm CHALITHA  
-<a href="https://www.linkedin.com/in/chalithahandapangoda/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://chalithah.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+<!-- Intro Section -->
+<div align="center">
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+    Hi. I'm Chalitha.
+  </h1>
+</div>
+
+<!-- Creative Visual Replacement -->
+<div align="center">
+  <img 
+    src="https://media.giphy.com/media/Y4pAQv58ETJgRwoLxj/giphy.gif" 
+    alt="Cyber Guardian Radar Scanning Animation" 
+    width="400"
+  />
+  <br>
+  <em>Monitoring threats... Staying sharp 🛰️</em>
+</div>
+
+<!-- Current Focus -->
+<div align="center">
+  <h2>Currently learning Cybersecurity...</h2>
+</div>
+
+<!-- Social Badges -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/chalithahandapangoda/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://chalithah.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
+
 
 I am a certified IT systems professional with a strong passion for cybersecurity and cloud technologies. My experience spans across cloud security, IAM, endpoint protection, and regulatory compliance.
 
