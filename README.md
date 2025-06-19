@@ -6,23 +6,33 @@
   </h1>
 </div>
 
-<!-- Custom SVG Cybersecurity Orbit Animation -->
+<!-- Custom Cybersecurity Orbit Animation -->
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/chalitha/satellite-grid/main/cyber-orbit.svg" 
-    alt="Cybersecurity-themed orbit animation around GitHub contribution grid" 
-    width="100%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/chalitha/satellite-orbit-grid/output/cyber-orbit-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/chalitha/satellite-orbit-grid/output/cyber-orbit.svg"
+    />
+    <img
+      alt="cybersecurity orbit animation around the world"
+      src="https://raw.githubusercontent.com/chalitha/satellite-orbit-grid/output/cyber-orbit.svg"
+      width="100%"
+    />
+  </picture>
   <br>
-  <em>Cybersecurity in motion: Locks, satellites, and rockets guarding my code 👨‍💻🛰️🚀</em>
+  <em>Protecting the world, one orbit at a time. 🔐🚀🛰</em>
 </div>
 
-<!-- Current Learning Focus -->
+<!-- Learning -->
 <div align="center">
   <h2>Currently learning Cybersecurity...</h2>
 </div>
 
-<!-- Social Badges -->
+<!-- Social Links -->
 <div align="center">
   <a href="https://www.linkedin.com/in/chalithahandapangoda/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
