@@ -25,16 +25,16 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Currently learning digital art...</h2></summary>
+    <summary><h2 style="display: inline-block">Currently learning cybersecuiry...</h2></summary>
   </ul>
 </div>
 
-<!-- 🔹 Intro -->
 <p align="center">
-  🛡️ DevSecOps & Cloud Security Engineer focused on securing cloud-native environments with <b>AWS</b>, <b>Terraform</b>, <b>Kubernetes</b>, and <b>SIEM</b> tools. <br>
-  🔍 I specialize in <i>identity & access management (IAM)</i>, <i>compliance</i>, and <i>incident detection & response</i>. <br>
-  🚀 Always learning. Always securing. One cloud at a time. ☁️🔐
+  🔐 DevOps & Cybersecurity Engineer focused on <b>cloud-native security</b>, <b>infrastructure as code</b>, and <b>incident detection & response</b>.<br>
+  ☁️ Passionate about building secure cloud environments using AWS, Terraform, Kubernetes, and open-source tools.<br>
+  🎯 Currently enhancing my expertise in SIEM, threat intelligence, and cloud security architecture.
 </p>
+
 
 ---
 
