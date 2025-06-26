@@ -1,30 +1,42 @@
-<!-- Animated Intro Heading -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+CHALITHA+%F0%9F%91%8B;Certified+IT+Systems+Engineer+%7C+Cybersecurity+Focused;Cloud+Security+%7C+IAM+%7C+Compliance+Specialist" alt="Typing SVG" />
-</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi. I'm Chalitha.</h1></summary>
+  </ul>
+</div>
+<div align="center">
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
 
-<!-- Centered Bio Text -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Currently learning digital art...</h2></summary>
+  </ul>
+</div>
+
+<!-- 🔹 Intro -->
 <p align="center">
-  🚀 I'm a certified IT systems professional with a strong passion for <b>cybersecurity</b> and <b>cloud technologies</b>. <br/>
-  🛡️ I specialize in <i>cloud security, identity & access management (IAM), endpoint protection,</i> and ensuring <i>regulatory compliance</i> across cloud infrastructure. <br/>
-  🔍 Continuously learning, building, and securing systems — one cloud at a time. ☁️🔐
+  🛡️ DevSecOps & Cloud Security Engineer focused on securing cloud-native environments with <b>AWS</b>, <b>Terraform</b>, <b>Kubernetes</b>, and <b>SIEM</b> tools. <br>
+  🔍 I specialize in <i>identity & access management (IAM)</i>, <i>compliance</i>, and <i>incident detection & response</i>. <br>
+  🚀 Always learning. Always securing. One cloud at a time. ☁️🔐
 </p>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/chalithahandapangoda/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://chalithah.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="mailto:hanchalitha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-## Objective
-My goal is to leverage my expertise in cybersecurity and cloud technologies to advance in roles related to Security Operations, Threat Detection, and Cloud Security Architecture.
+---
 
 ## Skills
 
@@ -94,3 +106,5 @@ My goal is to leverage my expertise in cybersecurity and cloud technologies to a
 - T-Pot-Honeypot-Cloud-Deployment
 - Securing REDCap with AWS WAF:OWASP Top 10
 - Active Directory Home Lab
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
